@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderSyncApp": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Source C:\\Destination 60 D:\\log.txt\r\n"
+    }
+  }
+}

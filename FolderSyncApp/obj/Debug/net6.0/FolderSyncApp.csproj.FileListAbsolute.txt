@@ -1,0 +1,15 @@
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.exe
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.deps.json
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.runtimeconfig.json
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.dll
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.pdb
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.csproj.AssemblyReference.cache
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.AssemblyInfoInputs.cache
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.AssemblyInfo.cs
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.csproj.CoreCompileInputs.cache
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.dll
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\refint\FolderSyncApp.dll
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.pdb
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.genruntimeconfig.cache
+D:\Workspace\git-repo\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\ref\FolderSyncApp.dll
